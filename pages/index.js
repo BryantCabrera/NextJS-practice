@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>I’m a full stack software engineer who specializes in the MERN stack.  Please view my work <a href="www.BryantCabrera.com">on my personal page</a>.</p>
+        <p>I’m a full stack software engineer who specializes in the MERN stack.  Please view my work <a href="https://www.BryantCabrera.com">on my personal page</a>.</p>
         <p>
           (This is a sample website - you’ll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
